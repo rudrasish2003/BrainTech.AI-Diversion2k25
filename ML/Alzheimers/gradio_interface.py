@@ -12,7 +12,7 @@ model = load_model("alzheimers_detection_model.h5")
 class_labels = ["Mild Dementia", "Moderate Dementia", "Non Demented", "Very Mild Dementia"]
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDD8QW1BggDVVMLteDygHCHrD6Ff9Dy0e8")
+genai.configure(api_key="####")
 gemini_model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Preprocess function
