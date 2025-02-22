@@ -1,6 +1,6 @@
 # BrainTech.AI - AI-Powered Dementia Diagnosis & Patient Support
 
-![BrainTech.AI Banner](./Screenshot 2025-02-22 124857.png)
+![BrainTech.AI Banner](./Screenshot.png)
 
 ## 🚀 About the Project
 BrainTech.AI is an AI-powered healthcare platform designed to assist dementia patients and connect them with specialized doctors. It enables MRI scan analysis for early dementia detection, provides medical insights for doctors, and offers a digital prescription system, reducing paper usage and promoting environmental sustainability. Additionally, our blogging platform helps patients share their journey and spread awareness about dementia.
