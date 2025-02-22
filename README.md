@@ -48,7 +48,7 @@ BrainTech.AI is an AI-powered healthcare platform designed to assist dementia pa
 - Environmentally friendly prescription system.
 
 ### **Weaknesses:**
-- Dependence on AI model improvements.
+- Dependence on size of dataset.
 - Limited to MRI-based dementia diagnosis.
 
 ### **Opportunities:**
