@@ -1,6 +1,6 @@
 # BrainTech.AI - AI-Powered Dementia Diagnosis & Patient Support
 
-![BrainTech.AI Banner](./banner.png)
+![BrainTech.AI Banner](./Screenshot 2025-02-22 124857.png)
 
 ## 🚀 About the Project
 BrainTech.AI is an AI-powered healthcare platform designed to assist dementia patients and connect them with specialized doctors. It enables MRI scan analysis for early dementia detection, provides medical insights for doctors, and offers a digital prescription system, reducing paper usage and promoting environmental sustainability. Additionally, our blogging platform helps patients share their journey and spread awareness about dementia.
@@ -24,15 +24,14 @@ BrainTech.AI is an AI-powered healthcare platform designed to assist dementia pa
 | Metric        | Value  |
 |--------------|--------|
 | **Accuracy**  | 99%   |
-| **Precision** | 98%   |
-| **Recall**    | 97%   |
-| **F1 Score**  | 98%   |
+| **Precision** | 99%   |
+| **Recall**    | 99%   |
+| **F1 Score**  | 99%   |
 
 📌 **Confusion Matrix:**
-![Confusion Matrix](./confusion.png)
+![Confusion Matrix](./unnamed.png)
 
-📌 **Workflow:**
-![Workflow](./workflow.jpeg)
+ 
 
 ---
 ## 🏆 Mission & Vision
@@ -63,7 +62,7 @@ BrainTech.AI is an AI-powered healthcare platform designed to assist dementia pa
 ## ⚡ Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/BrainTech.AI.git
+   git clone https://github.com/rudrasish2003/BrainTech.AI-Diversion2k25.git
    cd BrainTech.AI
    ```
 2. Install dependencies:
@@ -84,9 +83,10 @@ BrainTech.AI is an AI-powered healthcare platform designed to assist dementia pa
 
 ---
 ## 👨‍💻 Contributors
-- **Srinjoy Pramanik** - Backend & AI Model Integration
+- **Arittra Bag** - Model Training , Integration & Backend
 - **Soumyajit Datta** - Backend & PPT
 - **Rudrasish Dutta** - Model Training & Data Collection
+- **Swarup Mitra** - FrontEnd
 
 ---
 ## 📜 License
