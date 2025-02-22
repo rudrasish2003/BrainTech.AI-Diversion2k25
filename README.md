@@ -14,9 +14,10 @@ BrainTech.AI is an AI-powered healthcare platform designed to assist dementia pa
 
 ---
 ## 🏗️ Tech Stack
-- **Backend:** Flask, PyTorch, FastAPI
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Database:** PostgreSQL
+- **Backend:** Node.js, Flusk
+- **Frontend:** ReactJs
+- **Database:** SQL
+- **Deep Learning** Tensorflow
 
 ---
 ## 🎯 Model Performance
